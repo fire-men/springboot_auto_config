@@ -1,0 +1,2 @@
+# springboot_auto_config
+Springboot自动配置使用
