@@ -1,0 +1,3 @@
+# Project exclude paths
+/demo/autoConfig_common/target/
+/demo/autoConfig_demo/target/
